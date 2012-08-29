@@ -1,6 +1,7 @@
 antares
 =======
 
+* DIN rail mount
 * Atmel AT90CAN128
 * 10Mbit/s Ethernet utilising MicroChip ENC28J60
 * 42x I/O on 50-pin 2mm connector to daughter board (currently antares-I or antares-O) and 16-pin 2mm headers
